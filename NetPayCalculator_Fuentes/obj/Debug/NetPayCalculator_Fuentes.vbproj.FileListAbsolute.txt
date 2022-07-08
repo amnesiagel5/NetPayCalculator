@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\bin\Debug\NetPayCalculator_Fuentes.exe.config
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\bin\Debug\NetPayCalculator_Fuentes.exe
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\bin\Debug\NetPayCalculator_Fuentes.pdb
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\bin\Debug\NetPayCalculator_Fuentes.xml
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.NetPay_Calculator.resources
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.Resources.resources
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.exe
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.xml
+C:\Users\HP\source\repos\NetPayCalculator_Fuentes\NetPayCalculator_Fuentes\obj\Debug\NetPayCalculator_Fuentes.pdb
